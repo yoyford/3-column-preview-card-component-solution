@@ -45,12 +45,14 @@ body{
     line-height: 1.5;
     opacity: 0.6;
     padding-bottom: 45px;
+    font-size: 1rem;
+    padding: 0px 9px 0px 0px;
 }
 .card_button_sedan,.card_button_suv,.card_button_luxury{
     margin-top: 2.5rem;
     padding: 1.1rem;
     border-radius: 2rem;
-    width: 150px;
+    width: 151px;
     font-family: 'Lexend Deca', sans-serif;
     border: none;
     align-items: center;
