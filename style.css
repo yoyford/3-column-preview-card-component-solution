@@ -11,6 +11,7 @@ body{
     min-height: 100vh;
     justify-content: center;
     align-items: center;
+    font-family: 'Inter', sans-serif;
 }
 .card_body{
     display: flex;
@@ -59,6 +60,20 @@ body{
     align-items: center;
     font-weight: 800;
     display: block;
+    cursor: pointer;
+
+}
+.card_button_sedan:hover{
+    background: var(--Dark-cyan);
+    color: var(--white);
+}
+.card_button_luxury:hover{
+    color: var(--white);
+    background: var(--Bright-orange);
+}
+.card_button_suv:hover{
+    color: var(--white);
+    background: black;
 
 }
 .card_button_sedan{

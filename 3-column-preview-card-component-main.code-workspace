@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Blog-preview-card"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "3-column-preview-card-component-main"
+	}
+}
